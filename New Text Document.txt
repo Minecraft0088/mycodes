@@ -1,0 +1,28 @@
+<html>
+<html> teqi HTML sənədinin kökünü təmsil edir.
+<head>
+The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the <body> tag.
+<body>
+The <body> tag defines the document's body.
+<div>
+The <div> tag defines a division  in an HTML document.
+<h1>
+The <h1> to <h6> tags are used to define HTML headings.
+<p>
+The <p> tag defines a paragraph.
+<br>
+The <br> tag inserts a single line break.
+<hr>
+The <hr> tag defines a thematic break in an HTML page (e.g. a shift of topic).
+<a href>
+The href attribute specifies the URL of the page the link goes to.
+<img>
+The <img> tag is used to embed an image in an HTML page.
+<b>
+The <b> tag specifies bold text without any extra importance.
+<Attributes>
+HTML attributes provide additional information about HTML elements.
+<forms>
+The HTML <form> element is used to create an HTML form for user input:
+<HTML File Paths>
+A file path specifies the location of a file inside a web folder structure. Its like an address of a file which helps the web browser to access the files. File paths are used to link external resources such as images, videos, style sheets, JavaScript, displaying other web pages etc.
